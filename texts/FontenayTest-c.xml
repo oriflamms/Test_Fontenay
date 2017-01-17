@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?><teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader type="text"><fileDesc>
+         <titleStmt>
+            <title>Recueil des actes de l’abbaye de Fontenay</title>
+            <author>Dominique Stutzmann</author>
+         </titleStmt>
+         <editionStmt>
+            <p>Version partielle contenant les actes dont les originaux sont conservés</p>
+         </editionStmt>
+         <publicationStmt>
+            <p>Distribué par Telma</p>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <p>Créé sur MS Word, balisé sur oXgenXML</p>
+         </sourceDesc>
+      </fileDesc><encodingDesc><editorialDecl><p>Fichier tokénisé au niveau des caractères dans le cadre du projet ANR Oriflamms, http://oriflamms.hypotheses.org</p></editorialDecl></encodingDesc></teiHeader>
+   <!-- Ici commence l'édition -->
+   <TEI>
+      <teiHeader><fileDesc>
+            <titleStmt>
+               <title>Acte original n° 1 = Access n° 1253 </title>
+               <author/>
+            </titleStmt>
+            <publicationStmt>
+               <p>See the header of the teiCorpus</p>
+            </publicationStmt>
+            <sourceDesc>
+               <listWit>
+                  <witness n="A">
+                     <msDesc>
+                        <msIdentifier>
+                           <settlement>Dijon</settlement>
+                           <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                           <idno>15 H 17, pièce 1</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc material="perg">
+                                 <support>
+                                    <p>Original en parchemin</p>
+                                 </support>
+                                 <extent>
+                                    <dimensions type="leaves" unit="mm">
+                                       <height scope="range" min="165" max="185">165/185</height>
+                                       <width>290</width>
+                                    </dimensions>
+                                    <dimensions type="written" unit="mm">
+                                       <height>135</height>
+                                       <width>265</width>
+                                    </dimensions>
+                                 </extent>
+                              </supportDesc>
+                              <layoutDesc>
+                                 <layout columns="1" writtenLines="16"> réglure à la mine
+                                                de plomb ; 16 lignes ; repli 12-19 mm</layout>
+                              </layoutDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>
+                                 <term type="script">écriture prégothique
+                                                diplomatique</term>
+                              </p>
+                           </handDesc>
+                           <additions>Mentions dorsales : (XIIe s.) « Inter cartas abbatie
+                                        de decimis non reddendis » ; (XIIIe s.) « .ija » ; « De
+                                        decimis non reddendis. Inter cartas abbatie » ; « De decimis
+                                        Flaceaci, nec de as[...] nec de [...]baribus aliis » ;
+                                        (XVIIe s.) « Flacy. Q. » ; (XVIIe s.) « Flacey. Don
+                                        d’Estienne evesque d'Autun a Fontenay de toutte la dîme (a.
+                                        corr. : terre) qui lui apartenoit de Thouillon depuis le
+                                        Fain (…) Cotté O. » ; (1787) « N° 2 / 15 des calendes de
+                                        juillet sans autre date. » ; (XVIIIe s.) « Premiere. Alex
+                                        Derepas » </additions>
+                        </physDesc>
+                     </msDesc>
+                  </witness>
+                  <witness n="B">
+                     <msDesc>
+                        <msIdentifier>
+                           <settlement>Dijon</settlement>
+                           <repository>Archives départementales de la Côte
+                                        d'Or</repository>
+                           <idno>15 H 9</idno>
+                        </msIdentifier>
+                        <p>Cartulaire 1, <locus>fol. 21r-v</locus>. - (Abbatia, 2) ; table :
+                                        <q>II. Carta Stephani episcopi de decimis non
+                                    reddendis</q>
+                        </p>
+                     </msDesc>
+                  </witness>
+                  <witness n="a">{Plancher, 1739-1781 #5481@t. I, preuves p. XLIII, n°
+                            LXIV}</witness>
+               </listWit>
+               <listBibl default="false">
+                  <bibl default="false" status="draft">ADCO 15 H 1, fol. 71v (Flacey. O)</bibl>
+                  <bibl default="false" status="draft">ADCO 15 H 2, fol. 59v (Flacey. O)</bibl>
+                  <bibl default="false" status="draft">ADCO 15 H 3, p. 305 (XXII. 3. 2) : « scellé d’un sceau qui y étoit
+                            autrefois ». Vu les analyses de l’acte, sans doute attaché à Flaciacum,
+                            4</bibl>
+               </listBibl>
+            </sourceDesc>
+         </fileDesc><profileDesc>
+            <creation>
+               <date type="documentCreation" when="1139-12-31">1132-1140<note>Étienne I d’Autun (1112-1139) +
+                            Guillaume de Fontenay (1132-1154). En 1170-1171 se produit peut-être
+                            brièvement une occurrence similaire, argumenter sur le fonds de l’acte
+                            et les dîmes, peut-être avant 1136.</note>
+               </date>
+            </creation>
+            <abstract>
+               <p>Etienne [Ier de Bâgé], évêque d’Autun, accédant à la requête de
+                            Guillaume, abbé de Fontenay, dispense l'abbaye de Fontenay de payer les
+                            dîmes sur ses possessions sises dans le diocèse d'Autun, notamment à
+                            Flacey.</p>
+            </abstract>
+         </profileDesc><encodingDesc><editorialDecl><p>Fichier tokénisé au niveau des caractères dans le cadre du projet ANR Oriflamms, http://oriflamms.hypotheses.org</p></editorialDecl></encodingDesc></teiHeader>
+      <text>
+         <body>
+            <div1 org="uniform" sample="complete">
+               <p>
+                  <milestone unit="surface" facs="FRAD021_15_H_17_0003.png" xml:id="surf_FontenayTest_FRAD021_15_H_17_0003" n="1"/><pb facs="FRAD021_15_H_17_0003.png" xml:id="pb_Fontenay_1" n="1"/><!--cb added automatically--><cb xml:id="col_pb_Fontenay_1_1" n="1"/>
+                  <lb xml:id="line_pb_Fontenay_1_1_1" n="1"/>
+                  <persName>
+                     <w xml:id="w_Fontenay_1" n="1"><hi rend="lettres_allongées"><c xml:id="c_w_Fontenay_1_1">S</c><c xml:id="c_w_Fontenay_1_2">t</c><c xml:id="c_w_Fontenay_1_3">e</c><c xml:id="c_w_Fontenay_1_4">p</c><c xml:id="c_w_Fontenay_1_5">h</c><c xml:id="c_w_Fontenay_1_6">a</c><c xml:id="c_w_Fontenay_1_7">n</c><c xml:id="c_w_Fontenay_1_8">u</c><c xml:id="c_w_Fontenay_1_9">s</c></hi></w>
+                     <pc xml:id="pc_Fontenay_1" n="2"><c xml:id="c_pc_Fontenay_1_1">,</c></pc>
+                     <w xml:id="w_Fontenay_2" n="3"><choice><expan ana="ori:align-no">de</expan><abbr><c xml:id="c_w_Fontenay_2_1">d<g type="am">̄</g></c></abbr></choice><c xml:id="c_w_Fontenay_2_2">i</c></w>
+                     <w xml:id="w_Fontenay_3" n="4"><choice><expan ana="ori:align-no">gratia</expan><abbr><c xml:id="c_w_Fontenay_3_1">g</c><c xml:id="c_w_Fontenay_3_2">r</c><c xml:id="c_w_Fontenay_3_3">a<g type="am">̄</g></c></abbr></choice></w>
+                     <w xml:id="w_Fontenay_4" n="5"><c xml:id="c_w_Fontenay_4_1">E</c><c xml:id="c_w_Fontenay_4_2">d</c><c xml:id="c_w_Fontenay_4_3">u</c><c xml:id="c_w_Fontenay_4_4">e</c><c xml:id="c_w_Fontenay_4_5">n</c><c xml:id="c_w_Fontenay_4_6">s</c><c xml:id="c_w_Fontenay_4_7">i</c><c xml:id="c_w_Fontenay_4_8">s</c></w>
+                     <w xml:id="w_Fontenay_5" n="6"><choice><expan ana="ori:align-no">episcopus</expan><abbr><c xml:id="c_w_Fontenay_5_1">e</c><c xml:id="c_w_Fontenay_5_2">p<g type="am">̄</g></c><c xml:id="c_w_Fontenay_5_3">s</c></abbr></choice></w>
+                  </persName>
+                  <pc xml:id="pc_Fontenay_2" n="7"><c xml:id="c_pc_Fontenay_2_1">,</c></pc>
+                  <w xml:id="w_Fontenay_6" n="8"><c xml:id="c_w_Fontenay_6_1">d</c><c xml:id="c_w_Fontenay_6_2">i</c><c xml:id="c_w_Fontenay_6_3">l</c><c xml:id="c_w_Fontenay_6_4">e</c><c xml:id="c_w_Fontenay_6_5">c</c><c xml:id="c_w_Fontenay_6_6">t</c><c xml:id="c_w_Fontenay_6_7">o</c></w>
+                  <w xml:id="w_Fontenay_7" n="9"><choice><expan ana="ori:align-no">fratr</expan><abbr><c xml:id="c_w_Fontenay_7_1">f</c><c xml:id="c_w_Fontenay_7_2">r<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_7_3">i</c></w>
+                  <persName>
+                     <w xml:id="w_Fontenay_8" n="10"><c xml:id="c_w_Fontenay_8_1">W</c><c xml:id="c_w_Fontenay_8_2">i</c><c xml:id="c_w_Fontenay_8_3">l</c><c xml:id="c_w_Fontenay_8_4">l</c><c xml:id="c_w_Fontenay_8_5">e</c><c xml:id="c_w_Fontenay_8_6">l</c><c xml:id="c_w_Fontenay_8_7">m</c><c xml:id="c_w_Fontenay_8_8">o</c></w>
+                     <w xml:id="w_Fontenay_9" n="11"><choice><expan ana="ori:align-no">abbat</expan><abbr><c xml:id="c_w_Fontenay_9_1">a</c><c xml:id="c_w_Fontenay_9_2">b</c><c xml:id="c_w_Fontenay_9_3">b<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_9_4">i</c></w>
+                     <w xml:id="w_Fontenay_10" n="12"><c xml:id="c_w_Fontenay_10_1">F</c><c xml:id="c_w_Fontenay_10_2">o</c><c xml:id="c_w_Fontenay_10_3">n</c><c xml:id="c_w_Fontenay_10_4">t</c><c xml:id="c_w_Fontenay_10_5">e</c><c xml:id="c_w_Fontenay_10_6">n</c><c xml:id="c_w_Fontenay_10_7">e</c><c xml:id="c_w_Fontenay_10_8">t</c><c xml:id="c_w_Fontenay_10_9">i</c></w>
+                  </persName>
+                  <w xml:id="w_Fontenay_11" n="13"><c xml:id="c_w_Fontenay_11_1">o</c><choice><expan ana="ori:align-no">mn</expan><abbr><c xml:id="c_w_Fontenay_11_2">m<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_11_3">i</c><c xml:id="c_w_Fontenay_11_4">b</c><c xml:id="c_w_Fontenay_11_5">u</c><c xml:id="c_w_Fontenay_11_6">s</c><choice><expan ana="ori:align-no">que</expan><abbr><c xml:id="c_w_Fontenay_11_7">q</c><c xml:id="c_w_Fontenay_11_8">;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_12" n="14"><c xml:id="c_w_Fontenay_12_1">i</c><c xml:id="c_w_Fontenay_12_2">n</c></w>
+                  <w xml:id="w_Fontenay_13" n="15"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_13_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_13_2">p</c><c xml:id="c_w_Fontenay_13_3">e</c><c xml:id="c_w_Fontenay_13_4">t</c><c xml:id="c_w_Fontenay_13_5">u</c><c xml:id="c_w_Fontenay_13_6">u</c><c xml:id="c_w_Fontenay_13_7">m</c></w>
+                  <w xml:id="w_Fontenay_14" n="16"><c xml:id="c_w_Fontenay_14_1">i</c><c xml:id="c_w_Fontenay_14_2">b</c><c xml:id="c_w_Fontenay_14_3">i</c><c xml:id="c_w_Fontenay_14_4">d</c><choice><expan ana="ori:align-no">em</expan><abbr><c xml:id="c_w_Fontenay_14_5">e<g type="am">̃</g></c></abbr></choice></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_2" n="2"/>
+                  <w xml:id="w_Fontenay_15" n="17"><c xml:id="c_w_Fontenay_15_1">r</c><c xml:id="c_w_Fontenay_15_2">e</c><c xml:id="c_w_Fontenay_15_3">g</c><choice><expan ana="ori:align-no">ul</expan><abbr><c xml:id="c_w_Fontenay_15_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_15_5">a</c><c xml:id="c_w_Fontenay_15_6">r</c><c xml:id="c_w_Fontenay_15_7">i</c><c xml:id="c_w_Fontenay_15_8">t</c><c xml:id="c_w_Fontenay_15_9">e</c><c xml:id="c_w_Fontenay_15_10">r</c></w>
+                  <w xml:id="w_Fontenay_16" n="18"><c xml:id="c_w_Fontenay_16_1">s</c><c xml:id="c_w_Fontenay_16_2">u</c><c xml:id="c_w_Fontenay_16_3">b</c><c xml:id="c_w_Fontenay_16_4">s</c><c xml:id="c_w_Fontenay_16_5">t</c><c xml:id="c_w_Fontenay_16_6">i</c><c xml:id="c_w_Fontenay_16_7">t</c><c xml:id="c_w_Fontenay_16_8">u</c><c xml:id="c_w_Fontenay_16_9">e</c><c xml:id="c_w_Fontenay_16_10">n</c><c xml:id="c_w_Fontenay_16_11">d</c><c xml:id="c_w_Fontenay_16_12">i</c><c xml:id="c_w_Fontenay_16_13">s</c></w>
+                  <pc xml:id="pc_Fontenay_3" n="19"><c xml:id="c_pc_Fontenay_3_1">.</c></pc>
+                  <w xml:id="w_Fontenay_17" n="20"><c xml:id="c_w_Fontenay_17_1">Q</c><c xml:id="c_w_Fontenay_17_2">u</c><c xml:id="c_w_Fontenay_17_3">i</c><c xml:id="c_w_Fontenay_17_4">a</c></w>
+                  <w xml:id="w_Fontenay_18" n="21"><c xml:id="c_w_Fontenay_18_1">d</c><c xml:id="c_w_Fontenay_18_2">i</c><c xml:id="c_w_Fontenay_18_3">g</c><c xml:id="c_w_Fontenay_18_4">n</c><choice><expan ana="ori:align-no">um</expan><abbr><c xml:id="c_w_Fontenay_18_5">u<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_19" n="22"><choice><expan ana="ori:align-no">est</expan><abbr><c xml:id="c_w_Fontenay_19_1">e<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_20" n="23"><c xml:id="c_w_Fontenay_20_1">i</c><c xml:id="c_w_Fontenay_20_2">u</c><c xml:id="c_w_Fontenay_20_3">s</c><c xml:id="c_w_Fontenay_20_4">t</c><c xml:id="c_w_Fontenay_20_5">i</c><c xml:id="c_w_Fontenay_20_6">s</c></w>
+                  <w xml:id="w_Fontenay_21" n="24"><c xml:id="c_w_Fontenay_21_1">p</c><c xml:id="c_w_Fontenay_21_2">e</c><c xml:id="c_w_Fontenay_21_3">t</c><c xml:id="c_w_Fontenay_21_4">i</c><c xml:id="c_w_Fontenay_21_5">t</c><c xml:id="c_w_Fontenay_21_6">i</c><c xml:id="c_w_Fontenay_21_7">o</c><c xml:id="c_w_Fontenay_21_8">n</c><c xml:id="c_w_Fontenay_21_9">i</c><c xml:id="c_w_Fontenay_21_10">b</c><c xml:id="c_w_Fontenay_21_11">u</c><c xml:id="c_w_Fontenay_21_12">s</c></w>
+                  <w xml:id="w_Fontenay_22" n="25"><c xml:id="c_w_Fontenay_22_1">a</c><c xml:id="c_w_Fontenay_22_2">s</c><c xml:id="c_w_Fontenay_22_3">s</c><c xml:id="c_w_Fontenay_22_4">e</c><c xml:id="c_w_Fontenay_22_5">n</c><c xml:id="c_w_Fontenay_22_6">s</c><c xml:id="c_w_Fontenay_22_7">u</c><c xml:id="c_w_Fontenay_22_8">m</c></w>
+                  <w xml:id="w_Fontenay_23" n="26"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_23_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_23_2">b</c><c xml:id="c_w_Fontenay_23_3">e</c><c xml:id="c_w_Fontenay_23_4">r</c><c xml:id="c_w_Fontenay_23_5">e</c></w>
+                  <pc xml:id="pc_Fontenay_4" n="27"><c xml:id="c_pc_Fontenay_4_1">,</c></pc>
+                  <w xml:id="w_Fontenay_24" n="28"><c xml:id="c_w_Fontenay_24_1">p</c><c xml:id="c_w_Fontenay_24_2">e</c><c xml:id="c_w_Fontenay_24_3">t</c><c xml:id="c_w_Fontenay_24_4">i</c><c xml:id="c_w_Fontenay_24_5">t</c><c xml:id="c_w_Fontenay_24_6">i</c><c xml:id="c_w_Fontenay_24_7">o</c><c xml:id="c_w_Fontenay_24_8">n</c><c xml:id="c_w_Fontenay_24_9">i</c></w>
+                  <w xml:id="w_Fontenay_25" n="29"><c xml:id="c_w_Fontenay_25_1">t</c><c xml:id="c_w_Fontenay_25_2">u</c><c xml:id="c_w_Fontenay_25_3">ę</c></w>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_26" n="30"><c xml:id="c_w_Fontenay_26_1">i</c><c xml:id="c_w_Fontenay_26_2">m</c><c xml:id="c_w_Fontenay_26_3">m</c><c xml:id="c_w_Fontenay_26_4">o</c></w>
+                     </lem>
+                     <rdg wit="B" ana="ori:align-no">imo</rdg>
+                  </app>
+                  <w xml:id="w_Fontenay_27" n="31"><seg type="wp" xml:id="wp_Fontenay_27_1" n="1"><c xml:id="c_w_Fontenay_27_1">t</c><c xml:id="c_w_Fontenay_27_2">o</c></seg><lb break="no" xml:id="line_pb_Fontenay_1_1_3" n="3"/><seg type="wp" xml:id="wp_Fontenay_27_2" n="2"><c xml:id="c_w_Fontenay_27_3">t</c><c xml:id="c_w_Fontenay_27_4">i</c><c xml:id="c_w_Fontenay_27_5">u</c><c xml:id="c_w_Fontenay_27_6">s</c></seg></w>
+                  <w xml:id="w_Fontenay_28" n="32"><c xml:id="c_w_Fontenay_28_1">c</c><c xml:id="c_w_Fontenay_28_2">u</c><c xml:id="c_w_Fontenay_28_3">i</c></w>
+                  <w xml:id="w_Fontenay_29" n="33"><c xml:id="c_w_Fontenay_29_1">p</c><c xml:id="c_w_Fontenay_29_2">r</c><c xml:id="c_w_Fontenay_29_3">e</c><c xml:id="c_w_Fontenay_29_4">e</c><c xml:id="c_w_Fontenay_29_5">s</c></w>
+                  <w xml:id="w_Fontenay_30" n="34"><c xml:id="c_w_Fontenay_30_1">ę</c><c xml:id="c_w_Fontenay_30_2">c</c><c xml:id="c_w_Fontenay_30_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_30_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_30_5">ę</c></w>
+                  <w xml:id="w_Fontenay_31" n="35"><c xml:id="c_w_Fontenay_31_1">a</c><c xml:id="c_w_Fontenay_31_2">n</c><c xml:id="c_w_Fontenay_31_3">n</c><c xml:id="c_w_Fontenay_31_4">u</c><c xml:id="c_w_Fontenay_31_5">e</c><c xml:id="c_w_Fontenay_31_6">n</c><c xml:id="c_w_Fontenay_31_7">t</c><c xml:id="c_w_Fontenay_31_8">e</c><c xml:id="c_w_Fontenay_31_9">s</c></w>
+                  <w xml:id="w_Fontenay_32" n="36"><c xml:id="c_w_Fontenay_32_1">n</c><c xml:id="c_w_Fontenay_32_2">o</c><c xml:id="c_w_Fontenay_32_3">s</c></w>
+                  <w xml:id="w_Fontenay_33" n="37"><c xml:id="c_w_Fontenay_33_1">q</c><c xml:id="c_w_Fontenay_33_2">u</c><c xml:id="c_w_Fontenay_33_3">o</c><choice><expan ana="ori:align-no">que</expan><abbr><c xml:id="c_w_Fontenay_33_4">q</c><c xml:id="c_w_Fontenay_33_5">;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_34" n="38"><c xml:id="c_w_Fontenay_34_1">p</c><c xml:id="c_w_Fontenay_34_2">o</c><c xml:id="c_w_Fontenay_34_3">s</c><c xml:id="c_w_Fontenay_34_4">t</c></w>
+                  <w xml:id="w_Fontenay_35" n="39"><c xml:id="c_w_Fontenay_35_1">a</c><c xml:id="c_w_Fontenay_35_2">p</c><choice><expan ana="ori:align-no">ostol</expan><abbr><c xml:id="c_w_Fontenay_35_3">ł</c></abbr></choice><c xml:id="c_w_Fontenay_35_4">i</c><c xml:id="c_w_Fontenay_35_5">c</c><c xml:id="c_w_Fontenay_35_6">a</c></w>
+                  <w xml:id="w_Fontenay_36" n="40"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_36_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_36_2">c</c><c xml:id="c_w_Fontenay_36_3">e</c><c xml:id="c_w_Fontenay_36_4">p</c><c xml:id="c_w_Fontenay_36_5">t</c><c xml:id="c_w_Fontenay_36_6">a</c></w>
+                  <w xml:id="w_Fontenay_37" n="41"><c xml:id="c_w_Fontenay_37_1">d</c><c xml:id="c_w_Fontenay_37_2">e</c><c xml:id="c_w_Fontenay_37_3">c</c><c xml:id="c_w_Fontenay_37_4">e</c><c xml:id="c_w_Fontenay_37_5">r</c><c xml:id="c_w_Fontenay_37_6">n</c><c xml:id="c_w_Fontenay_37_7">i</c><c xml:id="c_w_Fontenay_37_8">m</c><c xml:id="c_w_Fontenay_37_9">u</c><c xml:id="c_w_Fontenay_37_10">s</c></w>
+                  <w xml:id="w_Fontenay_38" n="42"><c xml:id="c_w_Fontenay_38_1">n</c><c xml:id="c_w_Fontenay_38_2">e</c></w>
+                  <w xml:id="w_Fontenay_39" n="43"><c xml:id="c_w_Fontenay_39_1">q</c><c xml:id="c_w_Fontenay_39_2">u</c><c xml:id="c_w_Fontenay_39_3">a</c></w>
+                  <w xml:id="w_Fontenay_40" n="44"><c xml:id="c_w_Fontenay_40_1">u</c><choice><expan ana="ori:align-no">el</expan><abbr><c xml:id="c_w_Fontenay_40_2">ł</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_41" n="45"><c xml:id="c_w_Fontenay_41_1">ę</c><c xml:id="c_w_Fontenay_41_2">c</c><c xml:id="c_w_Fontenay_41_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_41_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_41_5">a</c><c xml:id="c_w_Fontenay_41_6">s</c><c xml:id="c_w_Fontenay_41_7">t</c><c xml:id="c_w_Fontenay_41_8">i</c><c xml:id="c_w_Fontenay_41_9">c</c><c xml:id="c_w_Fontenay_41_10">a</c></w>
+                  <w xml:id="w_Fontenay_42" n="46"><choice><expan ana="ori:align-no">uel</expan><abbr><c xml:id="c_w_Fontenay_42_1">ł</c></abbr></choice></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_4" n="4"/>
+                  <w xml:id="w_Fontenay_43" n="47"><c xml:id="c_w_Fontenay_43_1">s</c><c xml:id="c_w_Fontenay_43_2">e</c><c xml:id="c_w_Fontenay_43_3">c</c><c xml:id="c_w_Fontenay_43_4">u</c><c xml:id="c_w_Fontenay_43_5">l</c><c xml:id="c_w_Fontenay_43_6">a</c><c xml:id="c_w_Fontenay_43_7">r</c><c xml:id="c_w_Fontenay_43_8">i</c><c xml:id="c_w_Fontenay_43_9">s</c></w>
+                  <w xml:id="w_Fontenay_44" n="48"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_44_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_44_2">s</c><c xml:id="c_w_Fontenay_44_3">o</c><c xml:id="c_w_Fontenay_44_4">n</c><c xml:id="c_w_Fontenay_44_5">a</c></w>
+                  <w xml:id="w_Fontenay_45" n="49"><c xml:id="c_w_Fontenay_45_1">a</c><c xml:id="c_w_Fontenay_45_2">l</c><c xml:id="c_w_Fontenay_45_3">i</c><c xml:id="c_w_Fontenay_45_4">q</c><c xml:id="c_w_Fontenay_45_5">u</c><c xml:id="c_w_Fontenay_45_6">i</c><c xml:id="c_w_Fontenay_45_7">d</c></w>
+                  <w xml:id="w_Fontenay_46" n="50"><c xml:id="c_w_Fontenay_46_1">d</c><c xml:id="c_w_Fontenay_46_2">e</c></w>
+                  <w xml:id="w_Fontenay_47" n="51"><c xml:id="c_w_Fontenay_47_1">d</c><c xml:id="c_w_Fontenay_47_2">e</c><c xml:id="c_w_Fontenay_47_3">c</c><c xml:id="c_w_Fontenay_47_4">i</c><c xml:id="c_w_Fontenay_47_5">m</c><c xml:id="c_w_Fontenay_47_6">i</c><c xml:id="c_w_Fontenay_47_7">s</c></w>
+                  <w xml:id="w_Fontenay_48" n="52"><c xml:id="c_w_Fontenay_48_1">p</c><c xml:id="c_w_Fontenay_48_2">o</c><c xml:id="c_w_Fontenay_48_3">s</c><c xml:id="c_w_Fontenay_48_4">s</c><c xml:id="c_w_Fontenay_48_5">e</c><c xml:id="c_w_Fontenay_48_6">s</c><c xml:id="c_w_Fontenay_48_7">s</c><c xml:id="c_w_Fontenay_48_8">i</c><c xml:id="c_w_Fontenay_48_9">o</c><c xml:id="c_w_Fontenay_48_10">n</c><c xml:id="c_w_Fontenay_48_11">i</c><c xml:id="c_w_Fontenay_48_12">s</c></w>
+                  <w xml:id="w_Fontenay_49" n="53"><c xml:id="c_w_Fontenay_49_1">F</c><c xml:id="c_w_Fontenay_49_2">l</c><c xml:id="c_w_Fontenay_49_3">a</c><c xml:id="c_w_Fontenay_49_4">c</c><c xml:id="c_w_Fontenay_49_5">i</c><c xml:id="c_w_Fontenay_49_6">a</c><c xml:id="c_w_Fontenay_49_7">c</c><c xml:id="c_w_Fontenay_49_8">i</c></w>
+                  <w xml:id="w_Fontenay_50" n="54"><c xml:id="c_w_Fontenay_50_1">u</c><c xml:id="c_w_Fontenay_50_2">e</c><c xml:id="c_w_Fontenay_50_3">l</c></w>
+                  <w xml:id="w_Fontenay_51" n="55"><c xml:id="c_w_Fontenay_51_1">a</c><c xml:id="c_w_Fontenay_51_2">l</c><c xml:id="c_w_Fontenay_51_3">i</c><c xml:id="c_w_Fontenay_51_4">a</c><c xml:id="c_w_Fontenay_51_5">r</c><c xml:id="c_w_Fontenay_51_6">u</c><c xml:id="c_w_Fontenay_51_7">m</c></w>
+                  <w xml:id="w_Fontenay_52" n="56"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_52_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_52_2">d</c><c xml:id="c_w_Fontenay_52_3">i</c><c xml:id="c_w_Fontenay_52_4">c</c><c xml:id="c_w_Fontenay_52_5">t</c><c xml:id="c_w_Fontenay_52_6">e</c></w>
+                  <w xml:id="w_Fontenay_53" n="57"><c xml:id="c_w_Fontenay_53_1">ę</c><c xml:id="c_w_Fontenay_53_2">c</c><c xml:id="c_w_Fontenay_53_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_53_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_53_5">ę</c></w>
+                  <w xml:id="w_Fontenay_54" n="58"><c xml:id="c_w_Fontenay_54_1">p</c><c xml:id="c_w_Fontenay_54_2">o</c><c xml:id="c_w_Fontenay_54_3">s</c><c xml:id="c_w_Fontenay_54_4">s</c><c xml:id="c_w_Fontenay_54_5">e</c><c xml:id="c_w_Fontenay_54_6">s</c><c xml:id="c_w_Fontenay_54_7">s</c><c xml:id="c_w_Fontenay_54_8">i</c><c xml:id="c_w_Fontenay_54_9">o</c><c xml:id="c_w_Fontenay_54_10">n</c><c xml:id="c_w_Fontenay_54_11">u</c><c xml:id="c_w_Fontenay_54_12">m</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_5" n="5"/>
+                  <w xml:id="w_Fontenay_55" n="59"><c xml:id="c_w_Fontenay_55_1">a</c><c xml:id="c_w_Fontenay_55_2">c</c><c xml:id="c_w_Fontenay_55_3">c</c><c xml:id="c_w_Fontenay_55_4">i</c><c xml:id="c_w_Fontenay_55_5">p</c><c xml:id="c_w_Fontenay_55_6">e</c><c xml:id="c_w_Fontenay_55_7">r</c><c xml:id="c_w_Fontenay_55_8">e</c></w>
+                  <w xml:id="w_Fontenay_56" n="60"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_56_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_56_2">s</c><c xml:id="c_w_Fontenay_56_3">u</c><c xml:id="c_w_Fontenay_56_4">m</c><c xml:id="c_w_Fontenay_56_5">a</c><c xml:id="c_w_Fontenay_56_6">t</c></w>
+                  <pc xml:id="pc_Fontenay_5" n="61"><c xml:id="c_pc_Fontenay_5_1">.</c></pc>
+                  <w xml:id="w_Fontenay_57" n="62"><c xml:id="c_w_Fontenay_57_1">A</c><c xml:id="c_w_Fontenay_57_2">d</c></w>
+                  <w xml:id="w_Fontenay_58" n="63"><c xml:id="c_w_Fontenay_58_1">a</c><c xml:id="c_w_Fontenay_58_2">l</c><c xml:id="c_w_Fontenay_58_3">i</c><c xml:id="c_w_Fontenay_58_4">m</c><c xml:id="c_w_Fontenay_58_5">e</c><c xml:id="c_w_Fontenay_58_6">n</c><c xml:id="c_w_Fontenay_58_7">t</c><c xml:id="c_w_Fontenay_58_8">u</c><c xml:id="c_w_Fontenay_58_9">m</c></w>
+                  <w xml:id="w_Fontenay_59" n="64"><c xml:id="c_w_Fontenay_59_1">e</c><c xml:id="c_w_Fontenay_59_2">n</c><c xml:id="c_w_Fontenay_59_3">i</c><c xml:id="c_w_Fontenay_59_4">m</c></w>
+                  <w xml:id="w_Fontenay_60" n="65"><choice><expan ana="ori:align-no">fratrum</expan><abbr><c xml:id="c_w_Fontenay_60_1">f</c><c xml:id="c_w_Fontenay_60_2">r</c><c xml:id="c_w_Fontenay_60_3">m<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_61" n="66"><choice><expan ana="ori:align-no">de</expan><abbr><c xml:id="c_w_Fontenay_61_1">d<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_61_2">o</c></w>
+                  <w xml:id="w_Fontenay_62" n="67"><c xml:id="c_w_Fontenay_62_1">i</c><c xml:id="c_w_Fontenay_62_2">n</c></w>
+                  <w xml:id="w_Fontenay_63" n="68"><c xml:id="c_w_Fontenay_63_1">e</c><c xml:id="c_w_Fontenay_63_2">a</c><c xml:id="c_w_Fontenay_63_3">d</c><c xml:id="c_w_Fontenay_63_4">e</c><c xml:id="c_w_Fontenay_63_5">m</c></w>
+                  <w xml:id="w_Fontenay_64" n="69"><c xml:id="c_w_Fontenay_64_1">ę</c><c xml:id="c_w_Fontenay_64_2">c</c><c xml:id="c_w_Fontenay_64_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_64_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_64_5">a</c></w>
+                  <w xml:id="w_Fontenay_65" n="70"><c xml:id="c_w_Fontenay_65_1">i</c><c xml:id="c_w_Fontenay_65_2">n</c></w>
+                  <w xml:id="w_Fontenay_66" n="71"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_66_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_66_2">p</c><c xml:id="c_w_Fontenay_66_3">e</c><c xml:id="c_w_Fontenay_66_4">t</c><c xml:id="c_w_Fontenay_66_5">u</c><choice><expan ana="ori:align-no">um</expan><abbr><c xml:id="c_w_Fontenay_66_6">u<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_67" n="72"><c xml:id="c_w_Fontenay_67_1">s</c><c xml:id="c_w_Fontenay_67_2">e</c><c xml:id="c_w_Fontenay_67_3">r</c><c xml:id="c_w_Fontenay_67_4">u</c><c xml:id="c_w_Fontenay_67_5">i</c><c xml:id="c_w_Fontenay_67_6">e</c><c xml:id="c_w_Fontenay_67_7">n</c><c xml:id="c_w_Fontenay_67_8">t</c><c xml:id="c_w_Fontenay_67_9">i</c><c xml:id="c_w_Fontenay_67_10">u</c><c xml:id="c_w_Fontenay_67_11">m</c></w>
+                  <w xml:id="w_Fontenay_68" n="73"><seg type="wp" xml:id="wp_Fontenay_68_1" n="1"><c xml:id="c_w_Fontenay_68_1">c</c><c xml:id="c_w_Fontenay_68_2">o</c><c xml:id="c_w_Fontenay_68_3">n</c></seg><lb break="no" xml:id="line_pb_Fontenay_1_1_6" n="6"/><seg type="wp" xml:id="wp_Fontenay_68_2" n="2"><c xml:id="c_w_Fontenay_68_4">c</c><c xml:id="c_w_Fontenay_68_5">e</c><c xml:id="c_w_Fontenay_68_6">d</c><c xml:id="c_w_Fontenay_68_7">i</c><c xml:id="c_w_Fontenay_68_8">m</c><c xml:id="c_w_Fontenay_68_9">u</c><c xml:id="c_w_Fontenay_68_10">s</c></seg></w>
+                  <w xml:id="w_Fontenay_69" n="74"><c xml:id="c_w_Fontenay_69_1">e</c><c xml:id="c_w_Fontenay_69_2">i</c><c xml:id="c_w_Fontenay_69_3">s</c></w>
+                  <w xml:id="w_Fontenay_70" n="75"><c xml:id="c_w_Fontenay_70_1">o</c><c xml:id="c_w_Fontenay_70_2">m</c><c xml:id="c_w_Fontenay_70_3">n</c><c xml:id="c_w_Fontenay_70_4">e</c><c xml:id="c_w_Fontenay_70_5">m</c></w>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_71" n="76"><c xml:id="c_w_Fontenay_71_1">e</c><c xml:id="c_w_Fontenay_71_2">o</c><choice><expan ana="ori:align-no">rum</expan><abbr><c xml:id="c_w_Fontenay_71_3">ꝝ</c></abbr></choice></w>
+                        <w xml:id="w_Fontenay_72" n="77"><c xml:id="c_w_Fontenay_72_1">d</c><c xml:id="c_w_Fontenay_72_2">e</c><c xml:id="c_w_Fontenay_72_3">c</c><c xml:id="c_w_Fontenay_72_4">i</c><c xml:id="c_w_Fontenay_72_5">m</c><c xml:id="c_w_Fontenay_72_6">a</c><c xml:id="c_w_Fontenay_72_7">m</c></w>
+                     </lem>
+                     <rdg wit="B" ana="ori:align-no">decimam eorum</rdg>
+                  </app>
+                  <w xml:id="w_Fontenay_73" n="78"><c xml:id="c_w_Fontenay_73_1">a</c><c xml:id="c_w_Fontenay_73_2">d</c></w>
+                  <w xml:id="w_Fontenay_74" n="79"><c xml:id="c_w_Fontenay_74_1">c</c><c xml:id="c_w_Fontenay_74_2">u</c><c xml:id="c_w_Fontenay_74_3">i</c><c xml:id="c_w_Fontenay_74_4">u</c><c xml:id="c_w_Fontenay_74_5">s</c><c xml:id="c_w_Fontenay_74_6">c</c><c xml:id="c_w_Fontenay_74_7">u</c><c xml:id="c_w_Fontenay_74_8">m</c><choice><expan ana="ori:align-no">que</expan><abbr><c xml:id="c_w_Fontenay_74_9">q</c><c xml:id="c_w_Fontenay_74_10">;</c></abbr></choice></w>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_75" n="80"><c xml:id="c_w_Fontenay_75_1">ę</c><c xml:id="c_w_Fontenay_75_2">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_75_3">ł</c></abbr></choice><c xml:id="c_w_Fontenay_75_4">a</c><c xml:id="c_w_Fontenay_75_5">r</c><c xml:id="c_w_Fontenay_75_6">u</c><c xml:id="c_w_Fontenay_75_7">m</c></w>
+                     </lem>
+                     <rdg wit="B" ana="ori:align-no">ecclesiarum</rdg>
+                  </app>
+                  <w xml:id="w_Fontenay_76" n="81"><choice><expan ana="ori:align-no">nostra</expan><abbr><c xml:id="c_w_Fontenay_76_1">n</c><c xml:id="c_w_Fontenay_76_2">r</c><c xml:id="c_w_Fontenay_76_3">a<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_76_4">r</c><c xml:id="c_w_Fontenay_76_5">u</c><c xml:id="c_w_Fontenay_76_6">m</c></w>
+                  <w xml:id="w_Fontenay_77" n="82"><c xml:id="c_w_Fontenay_77_1">i</c><c xml:id="c_w_Fontenay_77_2">u</c><c xml:id="c_w_Fontenay_77_3">s</c></w>
+                  <w xml:id="w_Fontenay_78" n="83"><c xml:id="c_w_Fontenay_78_1">a</c><c xml:id="c_w_Fontenay_78_2">n</c><c xml:id="c_w_Fontenay_78_3">t</c><c xml:id="c_w_Fontenay_78_4">e</c><c xml:id="c_w_Fontenay_78_5">a</c></w>
+                  <w xml:id="w_Fontenay_79" n="84"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_79_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_79_2">t</c><c xml:id="c_w_Fontenay_79_3">i</c><c xml:id="c_w_Fontenay_79_4">n</c><c xml:id="c_w_Fontenay_79_5">u</c><c xml:id="c_w_Fontenay_79_6">e</c><c xml:id="c_w_Fontenay_79_7">r</c><c xml:id="c_w_Fontenay_79_8">i</c><c xml:id="c_w_Fontenay_79_9">t</c></w>
+                  <pc xml:id="pc_Fontenay_6" n="85"><c xml:id="c_pc_Fontenay_6_1">.</c></pc>
+                  <w xml:id="w_Fontenay_80" n="86"><c xml:id="c_w_Fontenay_80_1">S</c><c xml:id="c_w_Fontenay_80_2">i</c></w>
+                  <w xml:id="w_Fontenay_81" n="87"><choice><expan ana="ori:align-no">qui</expan><abbr><c xml:id="c_w_Fontenay_81_1">q<g type="am">ͥ</g></c></abbr></choice><c xml:id="c_w_Fontenay_81_2">s</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_7" n="7"/>
+                  <w xml:id="w_Fontenay_82" n="88"><c xml:id="c_w_Fontenay_82_1">a</c><c xml:id="c_w_Fontenay_82_2">u</c><c xml:id="c_w_Fontenay_82_3">t</c><c xml:id="c_w_Fontenay_82_4">e</c><c xml:id="c_w_Fontenay_82_5">m</c></w>
+                  <w xml:id="w_Fontenay_83" n="89"><c xml:id="c_w_Fontenay_83_1">c</c><c xml:id="c_w_Fontenay_83_2">o</c><c xml:id="c_w_Fontenay_83_3">n</c><c xml:id="c_w_Fontenay_83_4">t</c><c xml:id="c_w_Fontenay_83_5">r</c><c xml:id="c_w_Fontenay_83_6">a</c></w>
+                  <w xml:id="w_Fontenay_84" n="90"><c xml:id="c_w_Fontenay_84_1">h</c><c xml:id="c_w_Fontenay_84_2">ę</c><c xml:id="c_w_Fontenay_84_3">c</c></w>
+                  <w xml:id="w_Fontenay_85" n="91"><c xml:id="c_w_Fontenay_85_1">s</c><c xml:id="c_w_Fontenay_85_2">c</c><c xml:id="c_w_Fontenay_85_3">i</c><c xml:id="c_w_Fontenay_85_4">e</c><c xml:id="c_w_Fontenay_85_5">n</c><c xml:id="c_w_Fontenay_85_6">t</c><c xml:id="c_w_Fontenay_85_7">e</c><c xml:id="c_w_Fontenay_85_8">r</c></w>
+                  <w xml:id="w_Fontenay_86" n="92"><c xml:id="c_w_Fontenay_86_1">e</c><c xml:id="c_w_Fontenay_86_2">g</c><c xml:id="c_w_Fontenay_86_3">e</c><c xml:id="c_w_Fontenay_86_4">r</c><c xml:id="c_w_Fontenay_86_5">i</c><c xml:id="c_w_Fontenay_86_6">t</c></w>
+                  <pc xml:id="pc_Fontenay_7" n="93"><c xml:id="c_pc_Fontenay_7_1">,</c></pc>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_87" n="94"><c xml:id="c_w_Fontenay_87_1">a</c><c xml:id="c_w_Fontenay_87_2">n</c><c xml:id="c_w_Fontenay_87_3">a</c><c xml:id="c_w_Fontenay_87_4">t</c><c xml:id="c_w_Fontenay_87_5">e</c><c xml:id="c_w_Fontenay_87_6">m</c><c xml:id="c_w_Fontenay_87_7">a</c><c xml:id="c_w_Fontenay_87_8">t</c><c xml:id="c_w_Fontenay_87_9">i</c><c xml:id="c_w_Fontenay_87_10">s</c></w>
+                     </lem>
+                     <rdg wit="B" ana="ori:align-no">anathematis</rdg>
+                  </app>
+                  <w xml:id="w_Fontenay_88" n="95"><c xml:id="c_w_Fontenay_88_1">e</c><c xml:id="c_w_Fontenay_88_2">u</c><c xml:id="c_w_Fontenay_88_3">m</c></w>
+                  <w xml:id="w_Fontenay_89" n="96"><c xml:id="c_w_Fontenay_89_1">d</c><c xml:id="c_w_Fontenay_89_2">i</c><c xml:id="c_w_Fontenay_89_3">s</c><c xml:id="c_w_Fontenay_89_4">t</c><c xml:id="c_w_Fontenay_89_5">r</c><c xml:id="c_w_Fontenay_89_6">i</c><c xml:id="c_w_Fontenay_89_7">c</c><c xml:id="c_w_Fontenay_89_8">t</c><c xml:id="c_w_Fontenay_89_9">i</c><c xml:id="c_w_Fontenay_89_10">o</c><c xml:id="c_w_Fontenay_89_11">n</c><c xml:id="c_w_Fontenay_89_12">e</c></w>
+                  <w xml:id="w_Fontenay_90" n="97"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_90_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_90_2">c</c><c xml:id="c_w_Fontenay_90_3">e</c><c xml:id="c_w_Fontenay_90_4">l</c><c xml:id="c_w_Fontenay_90_5">l</c><c xml:id="c_w_Fontenay_90_6">i</c><c xml:id="c_w_Fontenay_90_7">m</c><c xml:id="c_w_Fontenay_90_8">u</c><c xml:id="c_w_Fontenay_90_9">s</c></w>
+                  <w xml:id="w_Fontenay_91" n="98"><c xml:id="c_w_Fontenay_91_1">d</c><c xml:id="c_w_Fontenay_91_2">o</c><c xml:id="c_w_Fontenay_91_3">n</c><c xml:id="c_w_Fontenay_91_4">e</c><c xml:id="c_w_Fontenay_91_5">c</c></w>
+                  <w xml:id="w_Fontenay_92" n="99"><c xml:id="c_w_Fontenay_92_1">r</c><c xml:id="c_w_Fontenay_92_2">e</c><c xml:id="c_w_Fontenay_92_3">a</c><c xml:id="c_w_Fontenay_92_4">t</c><c xml:id="c_w_Fontenay_92_5">u</c><c xml:id="c_w_Fontenay_92_6">s</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_8" n="8"/>
+                  <w xml:id="w_Fontenay_93" n="100"><c xml:id="c_w_Fontenay_93_1">s</c><c xml:id="c_w_Fontenay_93_2">u</c><c xml:id="c_w_Fontenay_93_3">i</c></w>
+                  <w xml:id="w_Fontenay_94" n="101"><c xml:id="c_w_Fontenay_94_1">f</c><c xml:id="c_w_Fontenay_94_2">a</c><c xml:id="c_w_Fontenay_94_3">c</c><c xml:id="c_w_Fontenay_94_4">i</c><c xml:id="c_w_Fontenay_94_5">n</c><c xml:id="c_w_Fontenay_94_6">u</c><c xml:id="c_w_Fontenay_94_7">s</c></w>
+                  <w xml:id="w_Fontenay_95" n="102"><c xml:id="c_w_Fontenay_95_1">c</c><c xml:id="c_w_Fontenay_95_2">o</c><c xml:id="c_w_Fontenay_95_3">n</c><c xml:id="c_w_Fontenay_95_4">g</c><c xml:id="c_w_Fontenay_95_5">r</c><c xml:id="c_w_Fontenay_95_6">u</c><c xml:id="c_w_Fontenay_95_7">a</c></w>
+                  <w xml:id="w_Fontenay_96" n="103"><c xml:id="c_w_Fontenay_96_1">e</c><c xml:id="c_w_Fontenay_96_2">m</c><c xml:id="c_w_Fontenay_96_3">e</c><c xml:id="c_w_Fontenay_96_4">n</c><c xml:id="c_w_Fontenay_96_5">d</c><c xml:id="c_w_Fontenay_96_6">e</c><c xml:id="c_w_Fontenay_96_7">t</c></w>
+                  <w xml:id="w_Fontenay_97" n="104"><c xml:id="c_w_Fontenay_97_1">s</c><c xml:id="c_w_Fontenay_97_2">a</c><c xml:id="c_w_Fontenay_97_3">t</c><c xml:id="c_w_Fontenay_97_4">i</c><c xml:id="c_w_Fontenay_97_5">s</c><c xml:id="c_w_Fontenay_97_6">f</c><c xml:id="c_w_Fontenay_97_7">a</c><c xml:id="c_w_Fontenay_97_8">c</c><c xml:id="c_w_Fontenay_97_9">t</c><c xml:id="c_w_Fontenay_97_10">i</c><c xml:id="c_w_Fontenay_97_11">o</c><c xml:id="c_w_Fontenay_97_12">n</c><c xml:id="c_w_Fontenay_97_13">e</c></w>
+                  <pc xml:id="pc_Fontenay_8" n="105"><c xml:id="c_pc_Fontenay_8_1">.</c></pc>
+                  <w xml:id="w_Fontenay_98" n="106"><c xml:id="c_w_Fontenay_98_1">u</c><c xml:id="c_w_Fontenay_98_2">i</c><c xml:id="c_w_Fontenay_98_3">c</c><c xml:id="c_w_Fontenay_98_4">i</c><c xml:id="c_w_Fontenay_98_5">n</c><c xml:id="c_w_Fontenay_98_6">i</c><c xml:id="c_w_Fontenay_98_7">s</c></w>
+                  <w xml:id="w_Fontenay_99" n="107"><c xml:id="c_w_Fontenay_99_1">a</c><c xml:id="c_w_Fontenay_99_2">u</c><c xml:id="c_w_Fontenay_99_3">t</c><c xml:id="c_w_Fontenay_99_4">e</c><c xml:id="c_w_Fontenay_99_5">m</c></w>
+                  <w xml:id="w_Fontenay_100" n="108"><choice><expan ana="ori:align-no">presbiter</expan><abbr><c xml:id="c_w_Fontenay_100_1">p</c><c xml:id="c_w_Fontenay_100_2">b<g type="am">̃</g></c><c xml:id="c_w_Fontenay_100_3">r</c></abbr></choice><c xml:id="c_w_Fontenay_100_4">i</c><c xml:id="c_w_Fontenay_100_5">s</c></w>
+                  <w xml:id="w_Fontenay_101" n="109"><c xml:id="c_w_Fontenay_101_1">t</c><c xml:id="c_w_Fontenay_101_2">a</c><c xml:id="c_w_Fontenay_101_3">m</c></w>
+                  <w xml:id="w_Fontenay_102" n="110"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_102_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_102_2">s</c><c xml:id="c_w_Fontenay_102_3">e</c><c xml:id="c_w_Fontenay_102_4">n</c><c xml:id="c_w_Fontenay_102_5">t</c><c xml:id="c_w_Fontenay_102_6">i</c><c xml:id="c_w_Fontenay_102_7">b</c><c xml:id="c_w_Fontenay_102_8">u</c><c xml:id="c_w_Fontenay_102_9">s</c></w>
+                  <w xml:id="w_Fontenay_103" n="111"><c xml:id="c_w_Fontenay_103_1">q</c><c xml:id="c_w_Fontenay_103_2">u</c><choice><expan ana="ori:align-no">am</expan><abbr><c xml:id="c_w_Fontenay_103_3">a<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_104" n="112"><seg type="wp" xml:id="wp_Fontenay_104_1" n="1"><c xml:id="c_w_Fontenay_104_1">f</c><c xml:id="c_w_Fontenay_104_2">u</c><c xml:id="c_w_Fontenay_104_3">t</c><c xml:id="c_w_Fontenay_104_4">u</c></seg><lb break="no" xml:id="line_pb_Fontenay_1_1_9" n="9"/><seg type="wp" xml:id="wp_Fontenay_104_2" n="2"><c xml:id="c_w_Fontenay_104_5">r</c><c xml:id="c_w_Fontenay_104_6">i</c><c xml:id="c_w_Fontenay_104_7">s</c></seg></w>
+                  <w xml:id="w_Fontenay_105" n="113"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_105_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_105_2">s</c><c xml:id="c_w_Fontenay_105_3">e</c><c xml:id="c_w_Fontenay_105_4">n</c><c xml:id="c_w_Fontenay_105_5">t</c><c xml:id="c_w_Fontenay_105_6">i</c></w>
+                  <w xml:id="w_Fontenay_106" n="114"><c xml:id="c_w_Fontenay_106_1">d</c><c xml:id="c_w_Fontenay_106_2">e</c><c xml:id="c_w_Fontenay_106_3">c</c><c xml:id="c_w_Fontenay_106_4">r</c><c xml:id="c_w_Fontenay_106_5">e</c><c xml:id="c_w_Fontenay_106_6">t</c><c xml:id="c_w_Fontenay_106_7">o</c></w>
+                  <w xml:id="w_Fontenay_107" n="115"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_107_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_107_2">c</c><c xml:id="c_w_Fontenay_107_3">i</c><c xml:id="c_w_Fontenay_107_4">p</c><c xml:id="c_w_Fontenay_107_5">i</c><c xml:id="c_w_Fontenay_107_6">m</c><c xml:id="c_w_Fontenay_107_7">u</c><c xml:id="c_w_Fontenay_107_8">s</c></w>
+                  <w xml:id="w_Fontenay_108" n="116"><c xml:id="c_w_Fontenay_108_1">u</c><c xml:id="c_w_Fontenay_108_2">t</c></w>
+                  <w xml:id="w_Fontenay_109" n="117"><c xml:id="c_w_Fontenay_109_1">s</c><c xml:id="c_w_Fontenay_109_2">u</c><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_109_3">ꝑ</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_110" n="118"><c xml:id="c_w_Fontenay_110_1">q</c><c xml:id="c_w_Fontenay_110_2">u</c><choice><expan ana="ori:align-no">em</expan><abbr><c xml:id="c_w_Fontenay_110_3">e<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_110_4">c</c><choice><expan ana="ori:align-no">um</expan><abbr><c xml:id="c_w_Fontenay_110_5">u<g type="am">̃</g></c></abbr></choice><choice><expan ana="ori:align-no">que</expan><abbr><c xml:id="c_w_Fontenay_110_6">q</c><c xml:id="c_w_Fontenay_110_7">;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_111" n="119"><c xml:id="c_w_Fontenay_111_1">c</c><c xml:id="c_w_Fontenay_111_2">l</c><c xml:id="c_w_Fontenay_111_3">a</c><c xml:id="c_w_Fontenay_111_4">m</c><c xml:id="c_w_Fontenay_111_5">o</c><c xml:id="c_w_Fontenay_111_6">r</c><c xml:id="c_w_Fontenay_111_7">e</c><c xml:id="c_w_Fontenay_111_8">m</c></w>
+                  <w xml:id="w_Fontenay_112" n="120"><c xml:id="c_w_Fontenay_112_1">ę</c><c xml:id="c_w_Fontenay_112_2">c</c><c xml:id="c_w_Fontenay_112_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_112_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_112_5">ę</c></w>
+                  <w xml:id="w_Fontenay_113" n="121"><choice><expan ana="ori:align-no">uestr</expan><abbr><c xml:id="c_w_Fontenay_113_1">u</c><c xml:id="c_w_Fontenay_113_2">r<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_113_3">ę</c></w>
+                  <w xml:id="w_Fontenay_114" n="122"><c xml:id="c_w_Fontenay_114_1">d</c><c xml:id="c_w_Fontenay_114_2">e</c></w>
+                  <w xml:id="w_Fontenay_115" n="123"><c xml:id="c_w_Fontenay_115_1">d</c><c xml:id="c_w_Fontenay_115_2">a</c><c xml:id="c_w_Fontenay_115_3">m</c><c xml:id="c_w_Fontenay_115_4">p</c><c xml:id="c_w_Fontenay_115_5">n</c><c xml:id="c_w_Fontenay_115_6">i</c><c xml:id="c_w_Fontenay_115_7">s</c></w>
+                  <w xml:id="w_Fontenay_116" n="124"><c xml:id="c_w_Fontenay_116_1">e</c><c xml:id="c_w_Fontenay_116_2">i</c><c xml:id="c_w_Fontenay_116_3">u</c><c xml:id="c_w_Fontenay_116_4">s</c></w>
+                  <w xml:id="w_Fontenay_117" n="125"><c xml:id="c_w_Fontenay_117_1">s</c><c xml:id="c_w_Fontenay_117_2">i</c><c xml:id="c_w_Fontenay_117_3">u</c><c xml:id="c_w_Fontenay_117_4">e</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_10" n="10"/>
+                  <w xml:id="w_Fontenay_118" n="126"><c xml:id="c_w_Fontenay_118_1">d</c><c xml:id="c_w_Fontenay_118_2">e</c></w>
+                  <w xml:id="w_Fontenay_119" n="127"><c xml:id="c_w_Fontenay_119_1">a</c><c xml:id="c_w_Fontenay_119_2">n</c><c xml:id="c_w_Fontenay_119_3">t</c><c xml:id="c_w_Fontenay_119_4">i</c><c xml:id="c_w_Fontenay_119_5">q</c><c xml:id="c_w_Fontenay_119_6">u</c><c xml:id="c_w_Fontenay_119_7">a</c></w>
+                  <w xml:id="w_Fontenay_120" n="128"><c xml:id="c_w_Fontenay_120_1">l</c><c xml:id="c_w_Fontenay_120_2">a</c><c xml:id="c_w_Fontenay_120_3">i</c><c xml:id="c_w_Fontenay_120_4">c</c><c xml:id="c_w_Fontenay_120_5">o</c><c xml:id="c_w_Fontenay_120_6">r</c><c xml:id="c_w_Fontenay_120_7">u</c><c xml:id="c_w_Fontenay_120_8">m</c></w>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_121" n="129"><choice><expan ana="ori:align-no">pre</expan><abbr><c xml:id="c_w_Fontenay_121_1">p<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_121_2">s</c><c xml:id="c_w_Fontenay_121_3">u</c><c xml:id="c_w_Fontenay_121_4">m</c><c xml:id="c_w_Fontenay_121_5">t</c><c xml:id="c_w_Fontenay_121_6">i</c><c xml:id="c_w_Fontenay_121_7">o</c><c xml:id="c_w_Fontenay_121_8">n</c><c xml:id="c_w_Fontenay_121_9">e</c></w>
+                     </lem>
+                     <rdg wit="B" ana="ori:align-no">presumptione</rdg>
+                  </app>
+                  <w xml:id="w_Fontenay_122" n="130"><c xml:id="c_w_Fontenay_122_1">i</c><c xml:id="c_w_Fontenay_122_2">n</c></w>
+                  <w xml:id="w_Fontenay_123" n="131"><c xml:id="c_w_Fontenay_123_1">d</c><c xml:id="c_w_Fontenay_123_2">e</c><c xml:id="c_w_Fontenay_123_3">c</c><c xml:id="c_w_Fontenay_123_4">i</c><c xml:id="c_w_Fontenay_123_5">m</c><c xml:id="c_w_Fontenay_123_6">a</c><c xml:id="c_w_Fontenay_123_7">s</c></w>
+                  <w xml:id="w_Fontenay_124" n="132"><c xml:id="c_w_Fontenay_124_1">s</c><c xml:id="c_w_Fontenay_124_2">e</c><c xml:id="c_w_Fontenay_124_3">u</c></w>
+                  <w xml:id="w_Fontenay_125" n="133"><c xml:id="c_w_Fontenay_125_1">d</c><c xml:id="c_w_Fontenay_125_2">e</c></w>
+                  <w xml:id="w_Fontenay_126" n="134"><c xml:id="c_w_Fontenay_126_1">a</c><c xml:id="c_w_Fontenay_126_2">l</c><c xml:id="c_w_Fontenay_126_3">i</c><c xml:id="c_w_Fontenay_126_4">i</c><c xml:id="c_w_Fontenay_126_5">s</c></w>
+                  <w xml:id="w_Fontenay_127" n="135"><c xml:id="c_w_Fontenay_127_1">a</c><c xml:id="c_w_Fontenay_127_2">u</c><c xml:id="c_w_Fontenay_127_3">d</c><c xml:id="c_w_Fontenay_127_4">i</c><c xml:id="c_w_Fontenay_127_5">e</c><c xml:id="c_w_Fontenay_127_6">r</c><c xml:id="c_w_Fontenay_127_7">i</c><c xml:id="c_w_Fontenay_127_8">n</c><c xml:id="c_w_Fontenay_127_9">t</c></w>
+                  <w xml:id="w_Fontenay_128" n="136"><c xml:id="c_w_Fontenay_128_1">p</c><c xml:id="c_w_Fontenay_128_2">l</c><c xml:id="c_w_Fontenay_128_3">e</c><c xml:id="c_w_Fontenay_128_4">n</c><c xml:id="c_w_Fontenay_128_5">i</c><c xml:id="c_w_Fontenay_128_6">s</c><c xml:id="c_w_Fontenay_128_7">s</c><c xml:id="c_w_Fontenay_128_8">i</c><c xml:id="c_w_Fontenay_128_9">m</c><c xml:id="c_w_Fontenay_128_10">a</c><c xml:id="c_w_Fontenay_128_11">m</c></w>
+                  <w xml:id="w_Fontenay_129" n="137"><c xml:id="c_w_Fontenay_129_1">d</c><c xml:id="c_w_Fontenay_129_2">e</c></w>
+                  <w xml:id="w_Fontenay_130" n="138"><c xml:id="c_w_Fontenay_130_1">e</c><c xml:id="c_w_Fontenay_130_2">o</c></w>
+                  <w xml:id="w_Fontenay_131" n="139"><seg type="wp" xml:id="wp_Fontenay_131_1" n="1"><c xml:id="c_w_Fontenay_131_1">i</c><c xml:id="c_w_Fontenay_131_2">u</c><c xml:id="c_w_Fontenay_131_3">s</c></seg><lb break="no" xml:id="line_pb_Fontenay_1_1_11" n="11"/><seg type="wp" xml:id="wp_Fontenay_131_2" n="2"><c xml:id="c_w_Fontenay_131_4">t</c><c xml:id="c_w_Fontenay_131_5">i</c><c xml:id="c_w_Fontenay_131_6">t</c><c xml:id="c_w_Fontenay_131_7">i</c><c xml:id="c_w_Fontenay_131_8">a</c><c xml:id="c_w_Fontenay_131_9">m</c></seg></w>
+                  <w xml:id="w_Fontenay_132" n="140"><c xml:id="c_w_Fontenay_132_1">f</c><c xml:id="c_w_Fontenay_132_2">a</c><c xml:id="c_w_Fontenay_132_3">c</c><c xml:id="c_w_Fontenay_132_4">i</c><c xml:id="c_w_Fontenay_132_5">a</c><c xml:id="c_w_Fontenay_132_6">n</c><c xml:id="c_w_Fontenay_132_7">t</c></w>
+                  <w xml:id="w_Fontenay_133" n="141"><c xml:id="c_w_Fontenay_133_1">n</c><c xml:id="c_w_Fontenay_133_2">e</c><c xml:id="c_w_Fontenay_133_3">c</c></w>
+                  <w xml:id="w_Fontenay_134" n="142"><c xml:id="c_w_Fontenay_134_1">u</c><c xml:id="c_w_Fontenay_134_2">s</c><choice><expan ana="ori:align-no">que</expan><abbr><c xml:id="c_w_Fontenay_134_3">q</c><c xml:id="c_w_Fontenay_134_4">;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_135" n="143"><c xml:id="c_w_Fontenay_135_1">a</c><c xml:id="c_w_Fontenay_135_2">d</c></w>
+                  <w xml:id="w_Fontenay_136" n="144"><c xml:id="c_w_Fontenay_136_1">c</c><c xml:id="c_w_Fontenay_136_2">o</c><c xml:id="c_w_Fontenay_136_3">n</c><c xml:id="c_w_Fontenay_136_4">g</c><c xml:id="c_w_Fontenay_136_5">r</c><c xml:id="c_w_Fontenay_136_6">u</c><c xml:id="c_w_Fontenay_136_7">a</c><c xml:id="c_w_Fontenay_136_8">m</c></w>
+                  <w xml:id="w_Fontenay_137" n="145"><c xml:id="c_w_Fontenay_137_1">r</c><c xml:id="c_w_Fontenay_137_2">e</c><c xml:id="c_w_Fontenay_137_3">l</c><c xml:id="c_w_Fontenay_137_4">a</c><c xml:id="c_w_Fontenay_137_5">x</c><c xml:id="c_w_Fontenay_137_6">e</c><c xml:id="c_w_Fontenay_137_7">n</c><c xml:id="c_w_Fontenay_137_8">t</c></w>
+                  <w xml:id="w_Fontenay_138" n="146"><c xml:id="c_w_Fontenay_138_1">e</c><c xml:id="c_w_Fontenay_138_2">m</c><c xml:id="c_w_Fontenay_138_3">e</c><c xml:id="c_w_Fontenay_138_4">n</c><c xml:id="c_w_Fontenay_138_5">d</c><c xml:id="c_w_Fontenay_138_6">a</c><c xml:id="c_w_Fontenay_138_7">t</c><c xml:id="c_w_Fontenay_138_8">i</c><c xml:id="c_w_Fontenay_138_9">o</c><c xml:id="c_w_Fontenay_138_10">n</c><c xml:id="c_w_Fontenay_138_11">e</c><c xml:id="c_w_Fontenay_138_12">m</c></w>
+                  <pc xml:id="pc_Fontenay_9" n="147"><c xml:id="c_pc_Fontenay_9_1">.</c></pc>
+                  <w xml:id="w_Fontenay_139" n="148"><c xml:id="c_w_Fontenay_139_1">A</c><c xml:id="c_w_Fontenay_139_2">l</c><c xml:id="c_w_Fontenay_139_3">i</c><c xml:id="c_w_Fontenay_139_4">o</c><c xml:id="c_w_Fontenay_139_5">q</c><c xml:id="c_w_Fontenay_139_6">u</c><c xml:id="c_w_Fontenay_139_7">i</c><c xml:id="c_w_Fontenay_139_8">n</c></w>
+                  <w xml:id="w_Fontenay_140" n="149"><c xml:id="c_w_Fontenay_140_1">o</c><c xml:id="c_w_Fontenay_140_2">f</c><c xml:id="c_w_Fontenay_140_3">f</c><c xml:id="c_w_Fontenay_140_4">i</c><c xml:id="c_w_Fontenay_140_5">c</c><c xml:id="c_w_Fontenay_140_6">i</c><c xml:id="c_w_Fontenay_140_7">i</c></w>
+                  <w xml:id="w_Fontenay_141" n="150"><c xml:id="c_w_Fontenay_141_1">s</c><c xml:id="c_w_Fontenay_141_2">u</c><c xml:id="c_w_Fontenay_141_3">i</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_12" n="12"/>
+                  <w xml:id="w_Fontenay_142" n="151"><choice><expan ana="ori:align-no">per</expan><abbr><c xml:id="c_w_Fontenay_142_1">ꝑ</c></abbr></choice><c xml:id="c_w_Fontenay_142_2">i</c><c xml:id="c_w_Fontenay_142_3">c</c><c xml:id="c_w_Fontenay_142_4">u</c><c xml:id="c_w_Fontenay_142_5">l</c><c xml:id="c_w_Fontenay_142_6">u</c><c xml:id="c_w_Fontenay_142_7">m</c></w>
+                  <w xml:id="w_Fontenay_143" n="152"><c xml:id="c_w_Fontenay_143_1">i</c><c xml:id="c_w_Fontenay_143_2">n</c><c xml:id="c_w_Fontenay_143_3">c</c><c xml:id="c_w_Fontenay_143_4">u</c><c xml:id="c_w_Fontenay_143_5">r</c><c xml:id="c_w_Fontenay_143_6">s</c><c xml:id="c_w_Fontenay_143_7">u</c><c xml:id="c_w_Fontenay_143_8">r</c><c xml:id="c_w_Fontenay_143_9">o</c><c xml:id="c_w_Fontenay_143_10">s</c></w>
+                  <w xml:id="w_Fontenay_144" n="153"><c xml:id="c_w_Fontenay_144_1">s</c><c xml:id="c_w_Fontenay_144_2">e</c></w>
+                  <w xml:id="w_Fontenay_145" n="154"><c xml:id="c_w_Fontenay_145_1">n</c><c xml:id="c_w_Fontenay_145_2">o</c><c xml:id="c_w_Fontenay_145_3">u</c><c xml:id="c_w_Fontenay_145_4">e</c><c xml:id="c_w_Fontenay_145_5">r</c><c xml:id="c_w_Fontenay_145_6">i</c><c xml:id="c_w_Fontenay_145_7">n</c><c xml:id="c_w_Fontenay_145_8">t</c></w>
+                  <pc xml:id="pc_Fontenay_10" n="155"><c xml:id="c_pc_Fontenay_10_1">,</c></pc>
+                  <w xml:id="w_Fontenay_146" n="156"><choice><expan ana="ori:align-no">et</expan><abbr><c xml:id="c_w_Fontenay_146_1">&amp;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_147" n="157"><c xml:id="c_w_Fontenay_147_1">a</c></w>
+                  <w xml:id="w_Fontenay_148" n="158"><choice><expan ana="ori:align-no">Domin</expan><abbr><c xml:id="c_w_Fontenay_148_1">d</c><c xml:id="c_w_Fontenay_148_2">n<g type="am">̃</g></c></abbr></choice><c xml:id="c_w_Fontenay_148_3">o</c></w>
+                  <w xml:id="w_Fontenay_149" n="159"><choice><expan ana="ori:align-no">pro</expan><abbr><c xml:id="c_w_Fontenay_149_1">ꝓ</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_150" n="160"><c xml:id="c_w_Fontenay_150_1">q</c><c xml:id="c_w_Fontenay_150_2">u</c><c xml:id="c_w_Fontenay_150_3">o</c></w>
+                  <w xml:id="w_Fontenay_151" n="161"><c xml:id="c_w_Fontenay_151_1">z</c><c xml:id="c_w_Fontenay_151_2">e</c><c xml:id="c_w_Fontenay_151_3">l</c><c xml:id="c_w_Fontenay_151_4">a</c><c xml:id="c_w_Fontenay_151_5">r</c><c xml:id="c_w_Fontenay_151_6">e</c></w>
+                  <w xml:id="w_Fontenay_152" n="162"><c xml:id="c_w_Fontenay_152_1">a</c><c xml:id="c_w_Fontenay_152_2">u</c><c xml:id="c_w_Fontenay_152_3">t</c></w>
+                  <w xml:id="w_Fontenay_153" n="163"><c xml:id="c_w_Fontenay_153_1">n</c><c xml:id="c_w_Fontenay_153_2">o</c><c xml:id="c_w_Fontenay_153_3">l</c><c xml:id="c_w_Fontenay_153_4">u</c><c xml:id="c_w_Fontenay_153_5">n</c><c xml:id="c_w_Fontenay_153_6">t</c></w>
+                  <w xml:id="w_Fontenay_154" n="164"><c xml:id="c_w_Fontenay_154_1">a</c><c xml:id="c_w_Fontenay_154_2">u</c><c xml:id="c_w_Fontenay_154_3">t</c></w>
+                  <w xml:id="w_Fontenay_155" n="165"><c xml:id="c_w_Fontenay_155_1">t</c><c xml:id="c_w_Fontenay_155_2">r</c><c xml:id="c_w_Fontenay_155_3">e</c><c xml:id="c_w_Fontenay_155_4">p</c><c xml:id="c_w_Fontenay_155_5">i</c><c xml:id="c_w_Fontenay_155_6">d</c><c xml:id="c_w_Fontenay_155_7">a</c><c xml:id="c_w_Fontenay_155_8"><g type="fusionnées">nt</g></c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_13" n="13"/>
+                  <w xml:id="w_Fontenay_156" n="166"><c xml:id="c_w_Fontenay_156_1">m</c><c xml:id="c_w_Fontenay_156_2">a</c><c xml:id="c_w_Fontenay_156_3">l</c><c xml:id="c_w_Fontenay_156_4">u</c><c xml:id="c_w_Fontenay_156_5">m</c></w>
+                  <w xml:id="w_Fontenay_157" n="167"><choice><expan ana="ori:align-no">quod</expan><abbr><c xml:id="c_w_Fontenay_157_1">q</c><c xml:id="c_w_Fontenay_157_2">d<g type="am">̃</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_158" n="168"><c xml:id="c_w_Fontenay_158_1">m</c><c xml:id="c_w_Fontenay_158_2">e</c><c xml:id="c_w_Fontenay_158_3">r</c><c xml:id="c_w_Fontenay_158_4">e</c><c xml:id="c_w_Fontenay_158_5">n</c><choice><expan ana="ori:align-no">tur</expan><abbr><c xml:id="c_w_Fontenay_158_6">t<g type="am">᷑</g></c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_159" n="169"><c xml:id="c_w_Fontenay_159_1">s</c><c xml:id="c_w_Fontenay_159_2">i</c></w>
+                  <w xml:id="w_Fontenay_160" n="170"><c xml:id="c_w_Fontenay_160_1">n</c><c xml:id="c_w_Fontenay_160_2">o</c><c xml:id="c_w_Fontenay_160_3">n</c></w>
+                  <w xml:id="w_Fontenay_161" n="171"><c xml:id="c_w_Fontenay_161_1">e</c><c xml:id="c_w_Fontenay_161_2">m</c><c xml:id="c_w_Fontenay_161_3">e</c><c xml:id="c_w_Fontenay_161_4">n</c><c xml:id="c_w_Fontenay_161_5">d</c><c xml:id="c_w_Fontenay_161_6">a</c><c xml:id="c_w_Fontenay_161_7">u</c><c xml:id="c_w_Fontenay_161_8">e</c><c xml:id="c_w_Fontenay_161_9">r</c><c xml:id="c_w_Fontenay_161_10">i</c><c xml:id="c_w_Fontenay_161_11">n</c><c xml:id="c_w_Fontenay_161_12">t</c></w>
+                  <w xml:id="w_Fontenay_162" n="172"><c xml:id="c_w_Fontenay_162_1">r</c><c xml:id="c_w_Fontenay_162_2">e</c><c xml:id="c_w_Fontenay_162_3">c</c><c xml:id="c_w_Fontenay_162_4">e</c><c xml:id="c_w_Fontenay_162_5">p</c><c xml:id="c_w_Fontenay_162_6">t</c><c xml:id="c_w_Fontenay_162_7">u</c><c xml:id="c_w_Fontenay_162_8">r</c><c xml:id="c_w_Fontenay_162_9">o</c><c xml:id="c_w_Fontenay_162_10">s</c></w>
+                  <pc xml:id="pc_Fontenay_11" n="173"><c xml:id="c_pc_Fontenay_11_1">.</c></pc>
+                  <space/>
+                  <lb xml:id="line_pb_Fontenay_1_1_14" n="14"/>
+                  <w xml:id="w_Fontenay_163" n="174"><c xml:id="c_w_Fontenay_163_1">A</c><c xml:id="c_w_Fontenay_163_2">c</c><c xml:id="c_w_Fontenay_163_3">t</c><c xml:id="c_w_Fontenay_163_4">u</c><c xml:id="c_w_Fontenay_163_5">m</c></w>
+                  <w xml:id="w_Fontenay_164" n="175"><c xml:id="c_w_Fontenay_164_1">e</c><c xml:id="c_w_Fontenay_164_2">s</c><c xml:id="c_w_Fontenay_164_3">t</c></w>
+                  <app>
+                     <lem>
+                        <w xml:id="w_Fontenay_165" n="176"><c xml:id="c_w_Fontenay_165_1">h</c><c xml:id="c_w_Fontenay_165_2">o</c><c xml:id="c_w_Fontenay_165_3">c</c></w>
+                     </lem>
+                     <rdg wit="B" rend="omis" ana="ori:align-no"/>
+                  </app>
+                  <placeName>
+                     <w xml:id="w_Fontenay_166" n="177"><c xml:id="c_w_Fontenay_166_1">E</c><c xml:id="c_w_Fontenay_166_2">d</c><c xml:id="c_w_Fontenay_166_3">u</c><c xml:id="c_w_Fontenay_166_4">ę</c></w>
+                  </placeName>
+                  <w xml:id="w_Fontenay_167" n="178"><c xml:id="c_w_Fontenay_167_1">i</c><c xml:id="c_w_Fontenay_167_2">n</c></w>
+                  <w xml:id="w_Fontenay_168" n="179"><c xml:id="c_w_Fontenay_168_1">p</c><c xml:id="c_w_Fontenay_168_2">l</c><c xml:id="c_w_Fontenay_168_3">e</c><c xml:id="c_w_Fontenay_168_4">n</c><c xml:id="c_w_Fontenay_168_5">a</c></w>
+                  <w xml:id="w_Fontenay_169" n="180"><c xml:id="c_w_Fontenay_169_1">s</c><c xml:id="c_w_Fontenay_169_2">y</c><c xml:id="c_w_Fontenay_169_3">n</c><c xml:id="c_w_Fontenay_169_4">o</c><c xml:id="c_w_Fontenay_169_5">d</c><c xml:id="c_w_Fontenay_169_6">o</c></w>
+                  <date>
+                     <app>
+                        <lem>
+                           <pc xml:id="pc_Fontenay_12" n="181"><c xml:id="c_pc_Fontenay_12_1">.</c></pc>
+                           <w xml:id="w_Fontenay_170" n="182"><c xml:id="c_w_Fontenay_170_1">X</c><c xml:id="c_w_Fontenay_170_2">u</c></w>
+                           <pc xml:id="pc_Fontenay_13" n="183"><c xml:id="c_pc_Fontenay_13_1">.</c></pc>
+                        </lem>
+                        <rdg wit="B" ana="ori:align-no">Xu°</rdg>
+                     </app>
+                     <w xml:id="w_Fontenay_171" n="184"><c xml:id="c_w_Fontenay_171_1">k</c><c xml:id="c_w_Fontenay_171_2">l</c></w>
+                     <pc xml:id="pc_Fontenay_14" n="185"><c xml:id="c_pc_Fontenay_14_1">.</c></pc>
+                     <w xml:id="w_Fontenay_172" n="186"><c xml:id="c_w_Fontenay_172_1">i</c><c xml:id="c_w_Fontenay_172_2">u</c><c xml:id="c_w_Fontenay_172_3">l</c><c xml:id="c_w_Fontenay_172_4">i</c><c xml:id="c_w_Fontenay_172_5">i</c></w>
+                  </date>
+                  <pc xml:id="pc_Fontenay_15" n="187"><c xml:id="c_pc_Fontenay_15_1">,</c></pc>
+                  <w xml:id="w_Fontenay_173" n="188"><c xml:id="c_w_Fontenay_173_1">l</c><c xml:id="c_w_Fontenay_173_2">a</c><c xml:id="c_w_Fontenay_173_3">u</c><c xml:id="c_w_Fontenay_173_4">d</c><c xml:id="c_w_Fontenay_173_5">a</c><c xml:id="c_w_Fontenay_173_6">n</c><c xml:id="c_w_Fontenay_173_7">t</c><c xml:id="c_w_Fontenay_173_8">i</c><choice><expan ana="ori:align-no">bus</expan><abbr><c xml:id="c_w_Fontenay_173_9">b</c><c xml:id="c_w_Fontenay_173_10">;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_174" n="189"><c xml:id="c_w_Fontenay_174_1">a</c><c xml:id="c_w_Fontenay_174_2">r</c><c xml:id="c_w_Fontenay_174_3">c</c><c xml:id="c_w_Fontenay_174_4">h</c><c xml:id="c_w_Fontenay_174_5">i</c><c xml:id="c_w_Fontenay_174_6">d</c><c xml:id="c_w_Fontenay_174_7">i</c><c xml:id="c_w_Fontenay_174_8">a</c><c xml:id="c_w_Fontenay_174_9">c</c><c xml:id="c_w_Fontenay_174_10">o</c><c xml:id="c_w_Fontenay_174_11">n</c><c xml:id="c_w_Fontenay_174_12">i</c><choice><expan ana="ori:align-no">bus</expan><abbr><c xml:id="c_w_Fontenay_174_13">b</c><c xml:id="c_w_Fontenay_174_14">;</c></abbr></choice></w>
+                  <persName>
+                     <w xml:id="w_Fontenay_175" n="190"><c xml:id="c_w_Fontenay_175_1">G</c><c xml:id="c_w_Fontenay_175_2">a</c><c xml:id="c_w_Fontenay_175_3">u</c><c xml:id="c_w_Fontenay_175_4">f</c><c xml:id="c_w_Fontenay_175_5">r</c><c xml:id="c_w_Fontenay_175_6">i</c><c xml:id="c_w_Fontenay_175_7">d</c><c xml:id="c_w_Fontenay_175_8">o</c></w>
+                  </persName>
+                  <pc xml:id="pc_Fontenay_16" n="191"><c xml:id="c_pc_Fontenay_16_1">,</c></pc>
+                  <lb xml:id="line_pb_Fontenay_1_1_15" n="15"/>
+                  <persName>
+                     <app>
+                        <lem>
+                           <w xml:id="w_Fontenay_176" n="192"><c xml:id="c_w_Fontenay_176_1">S</c><c xml:id="c_w_Fontenay_176_2">e</c><c xml:id="c_w_Fontenay_176_3">g</c><c xml:id="c_w_Fontenay_176_4">u</c><c xml:id="c_w_Fontenay_176_5">i</c><c xml:id="c_w_Fontenay_176_6">n</c><c xml:id="c_w_Fontenay_176_7">o</c></w>
+                        </lem>
+                        <rdg wit="B" ana="ori:align-no">Siguino</rdg>
+                     </app>
+                  </persName>
+                  <pc xml:id="pc_Fontenay_17" n="193"><c xml:id="c_pc_Fontenay_17_1">,</c></pc>
+                  <persName>
+                     <w xml:id="w_Fontenay_177" n="194"><c xml:id="c_w_Fontenay_177_1">H</c><c xml:id="c_w_Fontenay_177_2">u</c><c xml:id="c_w_Fontenay_177_3">m</c><c xml:id="c_w_Fontenay_177_4">b</c><c xml:id="c_w_Fontenay_177_5">e</c><c xml:id="c_w_Fontenay_177_6">r</c><c xml:id="c_w_Fontenay_177_7">t</c><c xml:id="c_w_Fontenay_177_8">o</c></w>
+                  </persName>
+                  <w xml:id="w_Fontenay_178" n="195"><choice><expan ana="ori:align-no">et</expan><abbr><c xml:id="c_w_Fontenay_178_1">&amp;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_179" n="196"><c xml:id="c_w_Fontenay_179_1">t</c><c xml:id="c_w_Fontenay_179_2">o</c><c xml:id="c_w_Fontenay_179_3">t</c><c xml:id="c_w_Fontenay_179_4">a</c></w>
+                  <w xml:id="w_Fontenay_180" n="197"><c xml:id="c_w_Fontenay_180_1">s</c><c xml:id="c_w_Fontenay_180_2">y</c><c xml:id="c_w_Fontenay_180_3">n</c><c xml:id="c_w_Fontenay_180_4">o</c><c xml:id="c_w_Fontenay_180_5">d</c><c xml:id="c_w_Fontenay_180_6">o</c></w>
+                  <pc xml:id="pc_Fontenay_18" n="198"><c xml:id="c_pc_Fontenay_18_1">.</c></pc>
+                  <w xml:id="w_Fontenay_181" n="199"><c xml:id="c_w_Fontenay_181_1">E</c><c xml:id="c_w_Fontenay_181_2">t</c></w>
+                  <w xml:id="w_Fontenay_182" n="200"><c xml:id="c_w_Fontenay_182_1">e</c><c xml:id="c_w_Fontenay_182_2">g</c><c xml:id="c_w_Fontenay_182_3">o</c></w>
+                  <persName>
+                     <w xml:id="w_Fontenay_183" n="201"><c xml:id="c_w_Fontenay_183_1">S</c><c xml:id="c_w_Fontenay_183_2">t</c><c xml:id="c_w_Fontenay_183_3">e</c><c xml:id="c_w_Fontenay_183_4">p</c><c xml:id="c_w_Fontenay_183_5">h</c><c xml:id="c_w_Fontenay_183_6">a</c><c xml:id="c_w_Fontenay_183_7">n</c><c xml:id="c_w_Fontenay_183_8">u</c><c xml:id="c_w_Fontenay_183_9">s</c></w>
+                     <w xml:id="w_Fontenay_184" n="202"><c xml:id="c_w_Fontenay_184_1">E</c><c xml:id="c_w_Fontenay_184_2">d</c><c xml:id="c_w_Fontenay_184_3">u</c><c xml:id="c_w_Fontenay_184_4">e</c><c xml:id="c_w_Fontenay_184_5">n</c><c xml:id="c_w_Fontenay_184_6">s</c><c xml:id="c_w_Fontenay_184_7">i</c><c xml:id="c_w_Fontenay_184_8">s</c></w>
+                     <w xml:id="w_Fontenay_185" n="203"><c xml:id="c_w_Fontenay_185_1">e</c><c xml:id="c_w_Fontenay_185_2">c</c><c xml:id="c_w_Fontenay_185_3">c</c><choice><expan ana="ori:align-no">lesi</expan><abbr><c xml:id="c_w_Fontenay_185_4">ł</c></abbr></choice><c xml:id="c_w_Fontenay_185_5">e</c></w>
+                     <w xml:id="w_Fontenay_186" n="204"><choice><expan ana="ori:align-no">episcopus</expan><abbr><c xml:id="c_w_Fontenay_186_1">e</c><c xml:id="c_w_Fontenay_186_2">p</c><c xml:id="c_w_Fontenay_186_3">c</c></abbr></choice></w>
+                  </persName>
+                  <w xml:id="w_Fontenay_187" n="205"><c xml:id="c_w_Fontenay_187_1">s</c><c xml:id="c_w_Fontenay_187_2">i</c><c xml:id="c_w_Fontenay_187_3">g</c><c xml:id="c_w_Fontenay_187_4">i</c><c xml:id="c_w_Fontenay_187_5">l</c><c xml:id="c_w_Fontenay_187_6">l</c><c xml:id="c_w_Fontenay_187_7">o</c></w>
+                  <w xml:id="w_Fontenay_188" n="206"><c xml:id="c_w_Fontenay_188_1">m</c><c xml:id="c_w_Fontenay_188_2">e</c><c xml:id="c_w_Fontenay_188_3">o</c></w>
+                  <lb xml:id="line_pb_Fontenay_1_1_16" n="16"/>
+                  <w xml:id="w_Fontenay_189" n="207"><c xml:id="c_w_Fontenay_189_1">m</c><c xml:id="c_w_Fontenay_189_2">u</c><c xml:id="c_w_Fontenay_189_3">n</c><c xml:id="c_w_Fontenay_189_4">i</c><c xml:id="c_w_Fontenay_189_5">o</c></w>
+                  <w xml:id="w_Fontenay_190" n="208"><choice><expan ana="ori:align-no">et</expan><abbr><c xml:id="c_w_Fontenay_190_1">&amp;</c></abbr></choice></w>
+                  <w xml:id="w_Fontenay_191" n="209"><c xml:id="c_w_Fontenay_191_1">c</c><c xml:id="c_w_Fontenay_191_2">o</c><c xml:id="c_w_Fontenay_191_3">n</c><c xml:id="c_w_Fontenay_191_4">f</c><c xml:id="c_w_Fontenay_191_5">i</c><c xml:id="c_w_Fontenay_191_6">r</c><c xml:id="c_w_Fontenay_191_7">m</c><c xml:id="c_w_Fontenay_191_8">o</c></w>
+                  <pc xml:id="pc_Fontenay_19" n="210"><c xml:id="c_pc_Fontenay_19_1">.</c></pc>
+                  <space/>
+               </p>
+            </div1>
+         </body>
+      </text>
+   </TEI>
+   
+</teiCorpus>

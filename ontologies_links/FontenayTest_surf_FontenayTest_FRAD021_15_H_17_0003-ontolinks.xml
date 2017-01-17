@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liens des allographes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Créé par Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/FontenayTest-c.xml#$1"/>
+                <prefixDef ident="lgly" matchPattern="([a-z]+)" replacementPattern="../ontologies/FontenayTest_ontology.xml#$1"/>
+                <prefixDef ident="ggly" matchPattern="([a-z]+)" replacementPattern="../../charDecl.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab>
+                <linkGrp type="words">
+                    <link target="txt:c_w_Fontenay_47_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_143_8 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_72_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_3_2 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_111_6 lgly:r-2"/>
+                    <link target="txt:c_w_Fontenay_48_12 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_118_1 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_143_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_52_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_36_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_106_4 lgly:r1 lgly:r1-2"/>
+                    <link target="txt:c_w_Fontenay_16_11 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_169_5 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_117_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_15_6 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_184_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_51_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_161_5 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_32_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_180_5 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_148_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_115_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_57_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_174_6 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_4_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_127_6 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_150_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_60_2 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_17_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_74_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_127_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_4_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_4_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_127_3 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_22_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_161_9 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_46_1 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_27_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_15_1 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_125_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_6_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_91_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_131_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_14_4 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_128_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_141_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_18_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_93_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_106_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_116_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_37_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_129_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_68_6 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_100_5 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_89_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_76_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_100_3 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_175_7 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_45_7 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_56_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_166_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_37_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_177_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_155_6 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_63_3 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_73_2 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_96_5 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_114_1 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_24_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_173_4 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_43_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_123_1 lgly:d-5"/>
+                    <link target="txt:c_w_Fontenay_138_5 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_191_6 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_135_2 lgly:d-4"/>
+                    <link target="txt:c_w_Fontenay_76_4 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_15_10 lgly:r1 lgly:r1-2"/>
+                    <link target="txt:c_w_Fontenay_175_5 lgly:r1 lgly:r1-2"/>
+                    <link target="txt:c_w_Fontenay_45_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_89_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_100_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-1"/>
+                    <link target="txt:c_w_Fontenay_23_4 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_162_8 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_177_6 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_155_2 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_29_2 lgly:r1 lgly:r1-2"/>
+                    <link target="txt:c_w_Fontenay_97_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_76_2 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_55_7 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_153_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_43_7 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_163_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_137_1 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_75_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_145_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_85_8 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_67_3 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_83_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_79_7 lgly:r1 lgly:r1-2"/>
+                    <link target="txt:c_w_Fontenay_86_4 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_95_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_90_8 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_92_1 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_158_3 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_97_5 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_119_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_136_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_74_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_104_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_174_2 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_44_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_21_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_120_6 lgly:r-2"/>
+                    <link target="txt:c_w_Fontenay_151_5 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_162_1 lgly:r1 lgly:r1-1"/>
+                    <link target="txt:c_w_Fontenay_11_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_121_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_4_8 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_144_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_136_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_3 lgly:b-1"/>
+                    <link target="txt:c_w_Fontenay_5_3 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_164_2 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_67_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_27_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_124_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_37_10 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_131_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_4 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_40_1 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_184_8 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_141_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_13 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_20_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_20_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_77_3 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_21_12 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_22_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_22_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_116_4 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_29_5 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_74_5 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_31_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_31_9 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_173_9 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_43_9 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_34_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_128_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_93_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_128_7 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_54_7 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_108_1 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_54_4 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_41_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_43_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_47_7 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_48_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_115_7 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_48_4 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_48_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_81_2 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_48_7 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_115_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-0 lgly:auto_p-0-0-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_102_7 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_180_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_87_10 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_54_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_54_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_98_7 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_104_7 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_67_10 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_68_10 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_69_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_89_3 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_184_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_85_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_90_9 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_134_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_92_6 lgly:s-0-2 lgly:s-0-2-1"/>
+                    <link target="txt:c_w_Fontenay_94_7 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_109_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_102_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_102_9 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_105_2 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_35_2 lgly:auto_p-1"/>
+                    <link target="txt:c_w_Fontenay_107_8 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_123_7 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_126_5 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_143_6 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_99_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_143_10 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_159_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_162_10 lgly:s-0-2 lgly:s-0-2-2"/>
+                    <link target="txt:c_w_Fontenay_169_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_183_9 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_187_1 lgly:s-0-1"/>
+                    <link target="txt:c_w_Fontenay_68_9 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_11_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_1_8 lgly:u-0-2"/>
+                    <link target="txt:c_w_Fontenay_74_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_88_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_54_11 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_67_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_117_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_124_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_66_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_13_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_13_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_16_8 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_20_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_110_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_77_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_21_11 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_22_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_25_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_48_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-1"/>
+                    <link target="txt:c_w_Fontenay_107_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_28_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_51_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_33_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_103_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_37_9 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_39_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_109_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_175_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_142_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_142_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_50_1 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_56_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_166_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_75_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_58_8 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_143_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_143_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_152_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_79_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_82_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_184_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_92_5 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_94_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_95_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_176_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_121_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_98_1 lgly:u-1 lgly:u-1-2"/>
+                    <link target="txt:c_w_Fontenay_102_8 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_161_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_104_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_104_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_113_1 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_120_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_154_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_134_1 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_139_6 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_145_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_156_4 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_162_7 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_170_2 lgly:u-1 lgly:u-1-1"/>
+                    <link target="txt:c_w_Fontenay_172_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_173_3 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_183_8 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_189_2 lgly:u-0-1"/>
+                    <link target="txt:c_w_Fontenay_11_4 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_14_2 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_9_2 lgly:b-1"/>
+                    <link target="txt:c_w_Fontenay_21_10 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_23_2 lgly:b-0 lgly:b-0-0"/>
+                    <link target="txt:c_w_Fontenay_177_4 lgly:b-0 lgly:b-0-1"/>
+                    <link target="txt:c_w_Fontenay_174_13 lgly:b-0 lgly:b-0-1"/>
+                    <link target="txt:c_w_Fontenay_1_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-1"/>
+                    <link target="txt:c_w_Fontenay_66_2 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_29_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-0 lgly:auto_p-0-0-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_13_2 lgly:auto_p-1"/>
+                    <link target="txt:c_w_Fontenay_107_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-0 lgly:auto_p-0-0-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_34_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-1"/>
+                    <link target="txt:c_w_Fontenay_55_5 lgly:auto_p-0 lgly:auto_p-0-1"/>
+                    <link target="txt:c_w_Fontenay_54_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-1 lgly:auto_p-0-0-1-0 lgly:auto_p-0-0-1-0-0 lgly:auto_p-0-0-1-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_168_1 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-0 lgly:auto_p-0-0-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_155_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-0 lgly:auto_p-0-0-0-0-0"/>
+                    <link target="txt:c_w_Fontenay_162_5 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_183_4 lgly:auto_p-0 lgly:auto_p-0-0 lgly:auto_p-0-0-0 lgly:auto_p-0-0-0-1"/>
+                    <link target="txt:c_w_Fontenay_186_2 lgly:auto_p-0 lgly:auto_p-0-1"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>
